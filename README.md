@@ -20,6 +20,7 @@ first way
 Second Way
 
     sudo apt-get install python3-flask
+    
     python3 <file>.py
 
 </li>
