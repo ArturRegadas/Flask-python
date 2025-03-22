@@ -4,6 +4,7 @@
 
 <li><h2>Linux</h2>
 first way
+(venv in py)
 
     sudo apt install python3-venv    
 
